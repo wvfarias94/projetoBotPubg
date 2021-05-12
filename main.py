@@ -78,6 +78,6 @@ async def moeda(ctx):
 #token do bot
 
 
-client.run('ODQxMzYxNjIxMTQ1NzQ3NDU3.YJlpEg.M--fyfudXqHVjc83ImXcEYsWYyQ')
+client.run('ODQxMzYxNjIxMTQ1NzQ3NDU3.YJlpEg.cGf_ERlS-bpDyVHG5Fid0nCmYWc')
 
 
