@@ -81,3 +81,4 @@ async def moeda(ctx):
 client.run('ODQxMzYxNjIxMTQ1NzQ3NDU3.YJlpEg.cGf_ERlS-bpDyVHG5Fid0nCmYWc')
 
 
+#teste para gitsa
